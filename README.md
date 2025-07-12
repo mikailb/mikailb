@@ -31,7 +31,7 @@ Jeg er alltid ute etter å lære nye teknologier og utvikle meg videre – både
 ## 📂 Utvalgte prosjekter
 
 - 🔬 **DeepDataDive**  
--Fullstack-løsning for International Seabed Authority (ISA), håndterer data om havbunnen
+**Fullstack-løsning for International Seabed Authority (ISA), håndterer data om havbunnen
 -Teknologi: ASP.NET Core (backend) og React/Next.js (frontend)
 -Har kartvisning, dataanalyse og støtte for flere språk
 
