@@ -3,7 +3,7 @@
 Jeg er en **nysgjerrig** og **løsningsorientert** dataingeniør som liker å bygge praktiske og brukervennlige løsninger.  
 Jeg er alltid ute etter å lære nye teknologier og utvikle meg videre – både faglig og personlig.
 
-⚽ Erfaring som fotballdommer har gitt meg tydelig kommunikasjon, rask beslutningstaking og samarbeid under press.
+
 
 ---
 
