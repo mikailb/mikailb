@@ -42,4 +42,4 @@ Jeg er alltid ute etter å lære nye teknologier og utvikle meg videre – både
 
 
 
-📫 Ta gjerne kontakt hvis du vil samarbeide på noe spennende!
+
