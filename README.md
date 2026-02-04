@@ -40,6 +40,21 @@ Jeg er alltid ute etter å lære nye teknologier og utvikle meg videre – både
 - Eget REST-API laget i ASP.NET Core
 - Støtter brukerinnhold og responsivt design
 
+  ## [Nest](https://github.com/mikailb/bookrecommender)
+- Bokanbefaling app med personalisert algoritme basert på lesehistorikk
+- Teknologi: Spring Boot (backend) og React (frontend)
+- JWT-autentisering, REST API med Swagger og Docker-oppsett
+
+ ## [Nest](https://github.com/mikailb/mediahub)
+- Full-stack mediebibliotek-applikasjon
+- Teknologi: Spring Boot (backend) og React (frontend)
+- Brukeradministrasjon og responsivt design
+
+
+
+
+
+
 
 
 
