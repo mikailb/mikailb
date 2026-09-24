@@ -39,7 +39,7 @@ https://github.com/mikailb/deep-data-dive
 
 ## Sober Oslo
 
-Nettside utviklet for Sober Oslo med fokus på moderne webutvikling og enkel innholdshåndtering.
+Nettside utvikler for Sober Oslo med fokus på moderne webutvikling og enkel innholdshåndtering.
 
 * Next.js
 * TypeScript
