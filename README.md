@@ -76,6 +76,4 @@ Bokanbefalingsapplikasjon med personaliserte anbefalinger basert på lesehistori
 **GitHub:**
 https://github.com/mikailb/bookrecommender
 
-## Hva jeg ønsker å jobbe med
 
-Jeg er spesielt interessert i backend- og systemutvikling, API-er og fullstack-utvikling. Jeg ønsker å fortsette å utvikle meg innen blant annet .NET, Java, moderne webteknologi og skybaserte løsninger.
