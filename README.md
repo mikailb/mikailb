@@ -49,7 +49,7 @@ Nettside utvikler for Sober Oslo med fokus på moderne webutvikling og enkel inn
 * Responsivt grensesnitt
 
 **GitHub:**
-https://github.com/mikailb/SoberOslo
+
 
 ## Nest
 
